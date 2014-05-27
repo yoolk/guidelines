@@ -3,7 +3,7 @@
 Every developer who submits pull request must do the following:
 
 * Put Design Principals inside description:
-  1. What this PR does? How does it work? How urgent it is?
+  1. What does this PR do? How does it work? How urgent it is?
   2. Test coverage on related projects
   3. Consistent UI
   4. Translations
